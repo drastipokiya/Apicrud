@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "firstName": "chintan",
+      "lastName": "harkh",
+      "age": "10",
+      "id": 2
+    },
+    {
+      "firstName": "meet",
+      "lastName": "raani",
+      "age": "17",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
